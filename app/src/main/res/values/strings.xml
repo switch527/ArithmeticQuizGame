@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SimpleArithmeticQuizGame</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="gameTitle">Arithmetic Quiz Game</string>
+    <string name="makeYouSelection">Make Your Selection</string>
+    <string name="selectionTitle">Make Your Selection</string>
+    <string name="equation">Equation</string>
+    <string name="questionNumberHint">Question Number</string>
+    <string name="yourAnswerHint">Your Answer</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="correct">correct</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="guesses">guesses</string>
+    <string name="choices">Select Number of Choices</string>
+    <string name="operation">Select Operation</string>
+    <string name="exit">Exit</string>
+
+
+    <string-array name="operator_list">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+        <item>All</item>
+    </string-array>
+
+    <string-array name="guesses_List">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+
+</resources>
